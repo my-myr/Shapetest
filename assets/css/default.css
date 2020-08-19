@@ -1,0 +1,127 @@
+.sm-body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background: cornsilk;
+}
+
+.sm-box {
+
+  width: 197px;
+  height: 197px;
+  margin-top: 20px;
+
+}
+
+.sm-box--margin {
+
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.sm-box--red{
+  background: red;
+}
+
+.sm-box--row{
+  position: relative;
+  width: 99%;
+  overflow:hidden;
+
+}
+
+.sm-box--row3{
+  position: relative;
+  width: 99%;
+  overflow: visible;
+
+}
+
+.sm-box--row2{
+  position: relative;
+  width: 95%;
+  overflow:hidden;
+
+}
+
+.sm-box--margin-{
+    margin-left:-150px;
+}
+
+
+.sm-box--corn{
+    background: cornsilk;
+}
+
+.sm-box--rotate{
+  transform: rotate(45deg);
+}
+
+.sm-box--1{
+    background: lightsteelblue;
+}
+
+.sm-box--2{
+    background: powderblue;
+}
+
+.sm-box--3{
+    background: lightskyblue;
+}
+
+.sm-box--4{
+    background: deepskyblue;
+}
+
+.sm-box--5{
+    background: dodgerblue;
+}
+
+.sm-box--6{
+    background: cornflowerblue;
+}
+
+.sm-box--7{
+    background: royalblue;
+}
+
+.sm-box--8{
+    background: blue;
+}
+
+.sm-box--9{
+    background: mediumblue;
+}
+
+.sm-box--10{
+    background: darkblue;
+}
+
+.sm-box--11{
+    background: navy;
+}
+
+.sm-box--12{
+    background: midnightblue;
+}
+
+
+.sm-box--left{
+    float: left;
+
+}
+
+.sm-box--none{
+    float: none;
+
+}
+
+.sm-box--right{
+    float: right;
+
+}
+
+.sm-box--circle{
+    border-radius: 50%;
+
+}
